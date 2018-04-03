@@ -1,5 +1,5 @@
 # CPSC_1213
-CPSC 1213: Introduction to Computer Science I
+CPSC 1213: Introduction to Computer Science I (Spring '18)
 
 Introduces the fundamental concepts of object-oriented programming. By the end of this course,
 the student will be able to:
